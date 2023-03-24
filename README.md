@@ -6,4 +6,5 @@ This Program uses an API to gather KanYe's Tweets (R.I.P. KanYe Twitter Account)
 1 - Launch the Program.
 
 2 - Click on KanYe's Head.
+
 3 - Enjoy some good quotes and some "can't really tell wtf this is" quotes.
